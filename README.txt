@@ -1,5 +1,5 @@
-Ce projet consiste à tester le comportement d'exemples de code présent sur codepen.io
-dans le cadre d'une exécution Squash TM - Squash TF.
+Ce projet consiste à tester le comportement d'exemples de code présent sur codepen.io dans le cadre d'une exécution
+Squash TM - Squash TF avec l'utilisation de paramètres.
 
 De nombreux paramètres sont utilisés afin de vérifier que l'ensemble soit bien disponible.
 
@@ -29,3 +29,5 @@ Ils doivent donc être configurés au préalable.
     - CPG_CUF_TO :    Champ personnalisé au niveau de la campagne qui correspond au temps en seconde avant le timeout
                       (pour le paramétrage du driver). Ce temps peut être défini comme on le souhaite.
                       Il est tout de même préférable qu'il soit supérieur à 30.
+
+Ce projet contient également le nécessaire (dépendance) pour l'utilisation des metadata.
